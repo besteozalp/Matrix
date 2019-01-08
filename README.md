@@ -1,2 +1,2 @@
 # Matrix
-Cmd ile matrix efekti
+Matrix effect with CMD
