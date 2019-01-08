@@ -12,4 +12,4 @@ goto matrix
 
 
 
-//bunu .bat olarak kaydedince kodu çalıştırabilirsin artık..
+//bunu .bat olarak kaydederek calistirabilirsiniz.
